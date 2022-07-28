@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itisdoyoonkim
 - 👀 I’m interested in learning in a team environment.
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning JavaScript and Ruby (including Ruby on Rails).
 - 📫 How to reach me: dkim.steve@gmail.com
 
 <!---
